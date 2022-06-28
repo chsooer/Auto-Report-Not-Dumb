@@ -108,4 +108,20 @@ return {
     ["exploit"] = "Scamming";
     ["exploiting"] = "Scamming";
     ["exploiter"] = "Scamming";
+    ["mald"] = "Bullying";
+    ["cope"] = "Bullying";
+    ["seeth"] = "Bullying";
+    ["world war"] = "Bullying";
+    ["ukraine"] = "Bullying";
+    ["russia"] = "Bullying";
+    ["putin"] = "Bullying";
+    ["wearetheniggas!"] = "Bullying";
+    ["malding"] = "Bullying";
+    ["coping"] = "Bullying";
+    ["cry"] = "Bullying";
+    ["mad"] = "Bullying";
+    ["seething"] = "Bullying";
+    ["🤓"] = "Bullying";
+    ["🤡"] = "Bullying";
+    ["clown"] = "Bullying";
 }   
