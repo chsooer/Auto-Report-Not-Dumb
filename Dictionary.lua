@@ -127,4 +127,6 @@ return {
     ["killer"] = "Bullying";
     ["kill yourself"] = "Bullying";
     ["kill"] = "Bullying";
+    ["cocalne"] = "Bullying";
+    ["penls"] = "Bullying";
 }   
