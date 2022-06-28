@@ -7,7 +7,7 @@ setfflag("DFFlagAbuseReportScreenshot", "False")
 local CoreGui = game:GetService("CoreGui")
 local Players = game:GetService("Players")
 
-local Dictionary = loadstring(game:HttpGet("https://raw.githubusercontent.com/safariragoli2/Auto-Report-Not-Dumb/main/Dictionary.lua"))()
+local Dictionary = loadstring(game:HttpGet("https://raw.githubusercontent.com/chsooer/Auto-Report/main/words/blacklisted.lua"))()
 
 local EnableAutoReport = false
 
