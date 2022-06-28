@@ -124,4 +124,7 @@ return {
     ["🤓"] = "Bullying";
     ["🤡"] = "Bullying";
     ["clown"] = "Bullying";
+    ["killer"] = "Bullying";
+    ["kill yourself"] = "Bullying";
+    ["kill"] = "Bullying";
 }   
